@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
-I'm currently working on GBDS<br>I'm currently learning about Pentesting and how it works.<br>
+# Hi 👋, I'm Brian Geoffrey
+A passionate computer enthusiast from CyberWorld
 
 
 ## 🌐 Socials:
